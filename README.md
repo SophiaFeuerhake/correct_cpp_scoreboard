@@ -4,11 +4,11 @@ Branch|[Travis CI](https://travis-ci.org)|[Codecov](https://www.codecov.io)
 ---|---|---
 master|[![Build Status](https://travis-ci.org/SophiaFeuerhake/correct_cpp_scoreboard.svg?branch=master)](https://travis-ci.org/SophiaFeuerhake/correct_cpp_scoreboard)|[![codecov.io](https://codecov.io/github/SophiaFeuerhake/correct_cpp_scoreboard/coverage.svg?branch=master)](https://codecov.io/github/SophiaFeuerhake/correct_cpp_scoreboard/branch/master)
 
-[Correct C++](https://github.com/SophiaFeuerhake/correct_cpp) chapter 'Scoreboard'.
+[Correct C++](https://github.com/richelbilderbeek/correct_cpp) chapter 'Scoreboard'.
 
 ## Goal
 
- * Experience a light version of [how this course works](https://github.com/SophiaFeuerhake/correct_cpp/blob/master/doc/how_this_course_works.md)
+ * Experience a light version of [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md)
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@ master|[![Build Status](https://travis-ci.org/SophiaFeuerhake/correct_cpp_scoreb
 ## Exercise
 
  * Replace all `SophiaFeuerhake/correct_cpp_` s by `[your_github_username]/correct_cpp_`, even in this line :+1:
- * The link to [Correct C++](https://github.com/SophiaFeuerhake/correct_cpp) should still point to `SophiaFeuerhake`s version, even in this line :+1:
+ * The link to [Correct C++](https://github.com/richelbilderbeek/correct_cpp) should still point to `richelbilderbeek`s version, even in this line :+1:
 
 Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo](Codecov.png)](https://www.codecov.io)
 ---|---|---
@@ -38,16 +38,16 @@ Chapter|[![Travis CI logo](TravisCI.png)](https://travis-ci.org)|[![Codecov logo
 :construction: [hello_qt](https://github.com/SophiaFeuerhake/correct_cpp_hello_qt)|[![Build Status](https://travis-ci.org/SophiaFeuerhake/correct_cpp_hello_qt.svg?branch=master)](https://travis-ci.org/SophiaFeuerhake/correct_cpp_hello_qt) | [![codecov.io](https://codecov.io/github/SophiaFeuerhake/correct_cpp_hello_qt/coverage.svg?branch=master)](https://codecov.io/github/SophiaFeuerhake/correct_cpp_hello_qt?branch=master)
 :construction: [to_morse](https://github.com/SophiaFeuerhake/correct_cpp_to_morse)|[![Build Status](https://travis-ci.org/SophiaFeuerhake/correct_cpp_to_morse.svg?branch=master)](https://travis-ci.org/SophiaFeuerhake/correct_cpp_to_morse) | [![codecov.io](https://codecov.io/github/SophiaFeuerhake/correct_cpp_to_morse/coverage.svg?branch=master)](https://codecov.io/github/SophiaFeuerhake/correct_cpp_to_morse?branch=master)
 
-This is [how this course works](https://github.com/SophiaFeuerhake/correct_cpp/blob/master/doc/how_this_course_works.md):
+This is [how this course works](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/how_this_course_works.md):
 
   1. Login to [GitHub](https://github.com/)
-  2. Fork this repository. See [fork a chapter](https://github.com/SophiaFeuerhake/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
-  3. Activate Travis CI for your GitHub. See [activate](https://github.com/SophiaFeuerhake/correct_cpp/blob/master/doc/activate.md) for help 
-  4. Clone your fork. See [clone your fork](https://github.com/SophiaFeuerhake/correct_cpp/blob/master/doc/clone_your_fork.md) for help
+  2. Fork this repository. See [fork a chapter](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/fork_a_chapter.md) for help
+  3. Activate Travis CI for your GitHub. See [activate](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/activate.md) for help 
+  4. Clone your fork. See [clone your fork](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/clone_your_fork.md) for help
   5. On your local code, modify this `README.md` file: replace `SophiaFeuerhake/correct_cpp_` by `[your_github_username]/correct_cpp_`
-  6. Push your code. See [push your code](https://github.com/SophiaFeuerhake/correct_cpp/blob/master/doc/push_your_code.md) for help
+  6. Push your code. See [push your code](https://github.com/richelbilderbeek/correct_cpp/blob/master/doc/push_your_code.md) for help
   7. If you did everything correctly, the build status of your fork will become green. Well done! Else, click on the red build status badge to view the Travis CI log
 
 ## External links
 
- * Video how to do this chapter: [mp4](http://www.SophiaFeuerhake.nl/correct_cpp_scoreboard.mp4) [YouTube](https://youtu.be/QABP8qEeM9o)
+ * Video how to do this chapter: [mp4](http://www.richelbilderbeek.nl/correct_cpp_scoreboard.mp4) [YouTube](https://youtu.be/QABP8qEeM9o)
